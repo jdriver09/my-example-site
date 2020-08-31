@@ -1,0 +1,89 @@
+
+/* Start Title Banner */
+.jumbotron {
+    background-image: url(../image/title-main-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10% 0 2% 0;
+    box-sizing: border-box;
+    background-color: green;
+    max-width: 100%;
+ }
+   /* End Title Banner */
+
+.sidebar {
+    padding: 0;
+
+}
+.sidebar a , .sidebar button{
+    text-decoration: none;
+    color: inherit;
+}
+.sidebar ul {
+    list-style-type: none;
+}
+
+
+.sidebar button{
+    font-weight: bold;
+}
+
+.sidebox {
+    padding:0;
+}
+
+.colj, .colf, .coli, .cole  {
+    height: 200%;
+    padding: 3px;
+}
+
+   
+.japan, .france, .ireland, .england {
+    text-align: center;
+    color:rgba(0, 0, 0, 0);
+    
+}
+.japan:hover, .france:hover, .ireland:hover, .england:hover {
+    text-align: center;
+    color: White;
+    font-weight: bold;
+    transform: scale(1.05);
+    transition: .8s;
+    box-shadow: 10px 10px 8px rgba(0, 4, 5, 0.5) ;
+}
+.japan a, .france a, .ireland a, .england a{
+    font-size: xx-large;
+    text-decoration: none;
+    color: inherit;
+}
+
+.japan {
+    position: relative;
+    background-image: url(../image/Japan.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   .france {
+    position: relative;
+    background-image: url(../image/france.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   .ireland {
+    position: relative;
+    background-image: url(../image/ireland.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   .england {
+    position: relative;
+    background-image: url(../image/england.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
