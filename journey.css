@@ -1,7 +1,7 @@
 
 /* Start Title Banner */
 .jumbotron {
-    background-image: url(../image/title-main-1.jpg);
+    background-image: url(image/title-main-1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -60,28 +60,28 @@
 
 .japan {
     position: relative;
-    background-image: url(../image/Japan.jpg);
+    background-image: url(image/Japan.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
    }
    .france {
     position: relative;
-    background-image: url(../image/france.jpg);
+    background-image: url(image/france.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
    }
    .ireland {
     position: relative;
-    background-image: url(../image/ireland.jpg);
+    background-image: url(image/ireland.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
    }
    .england {
     position: relative;
-    background-image: url(../image/england.jpg);
+    background-image: url(image/england.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
