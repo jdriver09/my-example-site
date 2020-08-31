@@ -31,15 +31,8 @@
 .sidebox {
     padding:0;
 }
-.select {
-    margin: 0;
-    padding: 0;
-    max-width: 100%;
-    border-style: groove;
-    border-color: gray;
-    height: 25px;
-    border-width: 1px;
-}
+
+
    /* End Sidebar*/
 /* Slide */
 .slideshow {
