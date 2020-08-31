@@ -92,28 +92,28 @@
 
 .japan {
     position: relative;
-    background-image: url("image/japan.jpg");
+    background-image: url("image/Japan.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
    }
    .france {
     position: relative;
-    background-image: url("image/france.jpg");
+    background-image: url("image/France.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
    }
    .ireland {
     position: relative;
-    background-image: url("image/ireland.jpg");
+    background-image: url("image/Ireland.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
    }
    .england {
     position: relative;
-    background-image: url("image/england.jpg");
+    background-image: url("image/England.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
